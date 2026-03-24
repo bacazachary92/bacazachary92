@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zachary Baca</h1>
 <h3 align="center">Mathematics educator turned aspiring data scientist with a proven track record of breaking down complex problems into understandable solutions. Combining 10 years of mathematical expertise with technical skills in SQL and Python, developed through DU's Master of Applied Data Science and AI program.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Visualization**
+- 🌱 I’m currently learning **Python, Machine Learning and Data Visualization**
 
 - 📫 How to reach me **bacazachary@gmail.com**
 
